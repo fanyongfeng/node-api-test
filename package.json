@@ -1,0 +1,15 @@
+{
+  "name": "node-data",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.3.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "axios": "^0.17.1"
+  }
+}
